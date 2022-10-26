@@ -2,6 +2,7 @@
 #include <string.h>
 
 #include "ItemToPurchase.h"
+#include "ItemToPurchase.c"
 
 int main(void) {
   int total;
